@@ -1,4 +1,3 @@
-from helper import get_sequence
 from shiny import App
 from helper import *
 
